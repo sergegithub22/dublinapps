@@ -1,7 +1,7 @@
 # DublinApps. Web-site HTML template.
 ## Description:
 Multi page web-site HTML template. 
-### Used:
+## Used:
  - HTML
  - CSS
  - JS plugins:
@@ -19,7 +19,7 @@ Multi page web-site HTML template.
  - Flex
  - Grid
  - 3 Some free fonts
- ### what did i do:
+ ## what did i do:
  - HTML 100%
  - CSS 100%, except vendor styles (some vendor styles have been changed)
  - JS plugins
