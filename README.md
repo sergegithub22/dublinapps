@@ -14,7 +14,7 @@ Multi page web-site HTML template.
      - Login(all pages)
      - Buy now(Leapards media)
      - Order now(Leopards media)
-	 - Tabs on ipad apps
+   - Tabs on ipad apps
    - Button up
  - Flex
  - Grid
@@ -26,5 +26,5 @@ Multi page web-site HTML template.
    - Login
    - Buy now
    - Order now
-	 - Tabs
+   - Tabs
  > All credits in their files.
