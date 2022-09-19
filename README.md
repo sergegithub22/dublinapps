@@ -1,8 +1,8 @@
-# DublinApps. Web-site HTML template.
+# DublinApps.
 ## Description:
 Multi page web-site HTML template. \
 Layout bilded on flex. A little on grid(contact form)
-## Used:
+### Used:
  - HTML
  - CSS
  - JS
