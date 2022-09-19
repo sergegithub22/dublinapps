@@ -7,6 +7,6 @@ Layout bilded on flex. A little on grid(contact form)
  - JS
 ### Third party assets: (thanks to all who made it :pray:)
  - Design
- - JS (besides tabs and popups)
+ - JS (besides loginpopup.js and popups.js)
  - Free fonts
  > All credits in their files.
