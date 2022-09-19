@@ -1,31 +1,13 @@
 # DublinApps. Web-site HTML template.
 ## Description:
-Multi page web-site HTML template. 
+Multi page web-site HTML template. \
+Layout bilded on flex. A little on grid(contact form)
 ## Used:
- - Free PSD template(not include; link to source in footer section)
  - HTML
  - CSS
- - JS plugins:
-   - Accordion
-   - 4 Sliders
-     - 2 on "home page"
-     - 1 on "ipad apps"
-     - 1 on "blog details"		
-   - 3 popups
-     - Login(all pages)
-     - Buy now("Leapards media")
-     - Order now("Leopards media")
-   - Tabs on ipad apps
-   - Button up
- - Flex
- - Grid
- - 3 Some free fonts
- ## Made by me:
- - HTML 100%
- - CSS 100%, except vendor styles (some vendor styles have been changed)
- - JS plugins
-   - Login
-   - Buy now
-   - Order now
-   - Tabs
+ - JS
+### Third party assets: (thanks to all who made it :pray:)
+ - Design
+ - JS plugins: all, besides tabs and popups
+ - Free fonts
  > All credits in their files.
