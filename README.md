@@ -1,6 +1,6 @@
 # DublinApps.
 Multi page web-site HTML template. \
-Layout bilded on flex. A little on grid(contact form)
+Layout built on flex. A little on grid(contact form)
 ### Used:
  - HTML
  - CSS
